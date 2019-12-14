@@ -1,0 +1,103 @@
+$var wire 3 ! busarray0 $end
+$var wire 3 " busarray1 $end
+$var wire 3 # busarray2 $end
+$var wire 3 $ busarray3 $end
+$var wire 3 % busarray4 $end
+$var wire 3 & busarray5 $end
+$var wire 3 ' busarray6 $end
+$var wire 3 ( busarray7 $end
+$var wire 3 ) outbus $end
+$var wire 3 * choice $end
+$var wire 1 + sys_clk $end
+$dumpvars
+$end
+#0
+b000 !
+b000 "
+b000 #
+b000 $
+b000 %
+b000 &
+b000 '
+b000 (
+b000 )
+b000 *
+0+
+#5
+b101 $
+b100 %
+b011 &
+b010 '
+b001 (
+1+
+b111 "
+b110 #
+#10
+0+
+#15
+1+
+b100 )
+b100 *
+#20
+0+
+#25
+1+
+b101 )
+b011 *
+#30
+0+
+#35
+1+
+b100 )
+b100 *
+#40
+0+
+#45
+1+
+b110 )
+b010 *
+#50
+0+
+#55
+1+
+b101 )
+b011 *
+#60
+0+
+#65
+1+
+b000 )
+b000 *
+#70
+0+
+#75
+1+
+b111 )
+b001 *
+#80
+0+
+#85
+1+
+b101 )
+b011 *
+#90
+0+
+#95
+1+
+b111 )
+b001 *
+#100
+0+
+#105
+1+
+b000 !
+b000 "
+b000 #
+b000 $
+b000 %
+b000 &
+b000 '
+b000 (
+b000 )
+b000 *
+0+

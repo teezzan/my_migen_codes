@@ -1,0 +1,22 @@
+$var wire 4 ! busarray0 $end
+$var wire 4 " busarray1 $end
+$var wire 4 # busarray2 $end
+$var wire 4 $ busarray3 $end
+$var wire 4 % inbus $end
+$var wire 1 & sys_clk $end
+$dumpvars
+$end
+#0
+b0000 !
+b0000 "
+b0000 #
+b0000 $
+b0000 %
+0&
+#5
+b0000 !
+b0000 "
+b0000 #
+b0000 $
+b0000 %
+0&
